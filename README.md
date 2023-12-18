@@ -4,7 +4,7 @@
 
  I've already set configs I thought is good for everyone, but some instructions for some specific ones (graphics related mostly) will be listed below if needed.
 
-v1.0.1
+# v1.0.1
  Updated modpack to include config files
 
 ##  After making any changes to the configs below, make sure you restart the game ##
