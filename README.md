@@ -1,11 +1,14 @@
 # Ed's ModpackCustomConfigs
 
-# v1.0.0
-
- I've already set configs I thought is good for everyone, but some instructions for some specific ones (graphics related mostly) will be listed below if needed.
+# v1.0.2
+last upload test due to config file issue
 
 # v1.0.1
  Updated modpack to include config files
+
+# v1.0.0
+
+ I've already set configs I thought is good for everyone, but some instructions for some specific ones (graphics related mostly) will be listed below if needed.
 
 ##  After making any changes to the configs below, make sure you restart the game ##
  HDLethalCompany - I set the config to 1080p medium settings. If you want change them, view the readme on the mod's thunderstore listing, very informative. https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/. If the link is dead, search the mods name in the website.
@@ -23,7 +26,7 @@
  ToggleMute = keybind CapsLock
 
  - INCLUDED MODs \
-    BepInEx-BepInExPack-5.4.2100 \
+BepInEx-BepInExPack-5.4.2100 \
 BatTeam-LethalFashion-1.0.4 \
 notnotnotswipez-MoreCompany-1.7.2 \
 2018-LC_API-2.2.0 \
