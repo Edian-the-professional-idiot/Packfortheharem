@@ -1,29 +1,27 @@
-# Ed's ModpackCustomConfigs
-
-# v1.0.2
-last upload test due to config file issue
-
-# v1.0.1
- Updated modpack to include config files
+# here you go nerds, read
 
 # v1.0.0
 
  I've already set configs I thought is good for everyone, but some instructions for some specific ones (graphics related mostly) will be listed below if needed.
 
 ##  After making any changes to the configs below, make sure you restart the game ##
+
+Any changes that are available in a config file for any mod can be changed using the following options:
+    - config files can be found in the folder: BepInEx/config/(somename-LOOK FOR MOD NAME.cfg) - I don't know where the thunderstore mod manager places this folder, I recommend using r2modman over thunderstore app
+    - or if using r2modman, click config editor and search for the mod name
+
  HDLethalCompany - I set the config to 1080p medium settings. If you want change them, view the readme on the mod's thunderstore listing, very informative. https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/. If the link is dead, search the mods name in the website.
 
  Custom Tv - should be set Dbz abridged movies
 
  Helmet_Cameras - max settings
 
- HotbarPlus - emotes rebound to F1 & F2, 6 slot hot bar \
-    - can be changed in BepInEx Folder/config/FlipMods.HotbarPlus.cfg
+ HotbarPlus - emotes rebound to F1 & F2, 4 slot hot bar \
 
  MoreEmotes - More emotes bound F3-F8, also v shows emote wheel \
-    - can be rebound in BepInEx Folder/config/
 
  ToggleMute = keybind CapsLock
+
 
  - INCLUDED MODs \
 BepInEx-BepInExPack-5.4.2100 \
