@@ -1,5 +1,8 @@
 # here you go nerds, read
 
+V1.0.1
+Added MoreItems and updated dependencies.
+
 # v1.0.0
 
  I've already set configs I thought is good for everyone, but some instructions for some specific ones (graphics related mostly) will be listed below if needed.
@@ -61,3 +64,4 @@ RickArg-Helmet_Cameras-2.1.5 \
 Verity-TooManySuits-1.0.4 \
 no00ob-LCSoundTool-1.3.2 \
 Clementinise-CustomSounds-2.1.2 \
+Drakorle-MoreItems-1.0.1
