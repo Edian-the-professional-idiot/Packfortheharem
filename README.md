@@ -1,6 +1,11 @@
 # here you go nerds, read
 
+# V1.0.2
+
+Updated pack to reinclude config files
+
 # V1.0.1
+
 Added MoreItems and updated dependencies.
 
 # v1.0.0
